@@ -1,4 +1,4 @@
-package com.alex.firebasedemo
+package com.alex.firebasetest
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

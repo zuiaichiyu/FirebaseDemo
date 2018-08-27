@@ -1,4 +1,4 @@
-package com.alex.firebasedemo
+package com.alex.firebasetest
 
 import org.junit.Test
 
